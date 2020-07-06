@@ -1,0 +1,25 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "Zoom Clone build using NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B3ns44d/Zoom-Clone.git"
+  },
+  "keywords": [
+    "zoom",
+    "clone",
+    "nodejs"
+  ],
+  "author": "Abdessamad Bensaad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/B3ns44d/Zoom-Clone/issues"
+  },
+  "homepage": "https://github.com/B3ns44d/Zoom-Clone#readme"
+}
