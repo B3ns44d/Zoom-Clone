@@ -21,5 +21,14 @@
   "bugs": {
     "url": "https://github.com/B3ns44d/Zoom-Clone/issues"
   },
-  "homepage": "https://github.com/B3ns44d/Zoom-Clone#readme"
+  "homepage": "https://github.com/B3ns44d/Zoom-Clone#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "peer": "^0.6.1",
+    "peerjs": "^1.3.1",
+    "socket.io": "^3.1.0",
+    "uuid": "^8.3.2"
+  }
 }
